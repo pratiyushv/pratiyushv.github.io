@@ -1,0 +1,39 @@
+h1
+{
+    color : #000000;
+    text-align : center;
+    font-family: "SIMPSON";
+}
+form
+{
+    align:"center";
+}
+#logo{
+	width: 70px;
+	height: 60px;
+	padding-top: -5px;
+	text-decoration: none;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: right;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
